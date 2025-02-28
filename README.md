@@ -1,4 +1,4 @@
 # apnacollege-demo
 apna college tutorial repository.
 <br>
-Author- Rahul kumar
+Author- Rahul kumar(apna college)
